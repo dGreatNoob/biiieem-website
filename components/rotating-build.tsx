@@ -4,14 +4,16 @@ import { useEffect, useState } from "react";
 
 const phrases = [
   "AI-powered SaaS.",
-  "agents that don't hallucinate.",
-  "RAG systems operators can audit.",
-  "multi-tenant platforms.",
-  "offline-first retail apps.",
-  "realtime operator tools.",
+  "production agents.",
+  "RAG systems.",
+  "operator dashboards.",
+  "offline-first apps.",
+  "e-commerce stores.",
+  "landing pages.",
+  "websites.",
 ];
 
-const HOLD_MS = 3200;
+const HOLD_MS = 2800;
 
 export function RotatingBuild() {
   const [i, setI] = useState(0);
@@ -30,8 +32,7 @@ export function RotatingBuild() {
   return (
     <span
       key={i}
-      className="inline-block text-[color:var(--color-accent)] animate-[slideUpFade_500ms_cubic-bezier(0.22,1,0.36,1)]"
-      aria-live="polite"
+      className="inline-block whitespace-nowrap text-[color:var(--color-accent)] animate-[slideUpFade_500ms_cubic-bezier(0.22,1,0.36,1)]"
     >
       {phrases[i]}
     </span>

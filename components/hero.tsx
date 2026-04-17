@@ -12,8 +12,9 @@ export function Hero() {
           </span>
           <span>Open to remote roles and serious freelance engagements</span>
         </div>
-        <h1 className="text-5xl sm:text-6xl md:text-7xl font-semibold tracking-tight leading-[1.05]">
-          I build <RotatingBuild />
+        <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-semibold tracking-tight leading-[1.05]">
+          I build<br />
+          <RotatingBuild />
         </h1>
         <p className="mt-8 max-w-2xl text-lg text-[color:var(--color-muted)] leading-relaxed">
           Full-stack developer based in Manila, Philippines. I specialize in Next.js + LangGraph + Supabase —
