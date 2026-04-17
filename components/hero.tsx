@@ -1,3 +1,5 @@
+import { RotatingBuild } from "./rotating-build";
+
 export function Hero() {
   return (
     <section className="relative pt-36 pb-24 overflow-hidden">
@@ -11,9 +13,7 @@ export function Hero() {
           <span>Open to remote roles and serious freelance engagements</span>
         </div>
         <h1 className="text-5xl sm:text-6xl md:text-7xl font-semibold tracking-tight leading-[1.05]">
-          I build <span className="text-[color:var(--color-accent)]">AI-powered SaaS</span>
-          <br />
-          end to end.
+          I build <RotatingBuild />
         </h1>
         <p className="mt-8 max-w-2xl text-lg text-[color:var(--color-muted)] leading-relaxed">
           Full-stack developer based in Manila, Philippines. I specialize in Next.js + LangGraph + Supabase —
