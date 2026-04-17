@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     template: "%s · Belteshazzar Marquez",
   },
   description:
-    "Full-stack developer from Manila. I build AI-powered SaaS on Next.js + LangGraph + Supabase — agent state machines, RAG pipelines, and the operator UIs that make them usable.",
+    "Full-stack developer based in Manila, Philippines. I build AI-powered SaaS on Next.js + LangGraph + Supabase — agent state machines, RAG pipelines, and the operator UIs that make them usable.",
   keywords: [
     "Belteshazzar Marquez",
     "Full-Stack Developer",

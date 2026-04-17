@@ -50,3 +50,9 @@ iframe[title="Aya Chat Widget"] {
   bottom: 20px !important;
   right: 20px !important;
 }
+
+/* Contact-section arrow gently pointing toward the chat bubble */
+@keyframes nudge {
+  0%, 100% { transform: translate(0, 0); opacity: 0.7; }
+  50%      { transform: translate(4px, 4px); opacity: 1; }
+}

@@ -48,7 +48,7 @@ export default function HomePage() {
               <p>
                 I&apos;m{" "}
                 <span className="text-[color:var(--color-fg)]">Belteshazzar Marquez</span> — a
-                full-stack developer based in Manila. I studied Computer Engineering (embedded
+                full-stack developer based in Manila, Philippines. I studied Computer Engineering (embedded
                 systems, IoT, real-time applications) at the University of Mindanao, and for
                 the past few years I&apos;ve been building production software for small and
                 medium businesses.
@@ -95,47 +95,84 @@ export default function HomePage() {
             <h2 className="text-3xl sm:text-4xl font-semibold tracking-tight mb-8">
               Let&apos;s build something
             </h2>
-            <div className="grid sm:grid-cols-3 gap-4">
-              <a
-                href="mailto:mbelteshazzar.bm.1247@gmail.com"
-                className="group rounded-xl border border-[color:var(--color-border)] bg-[color:var(--color-bg-elevated)] p-6 hover:border-[color:var(--color-accent)]/40 transition-colors"
-              >
-                <div className="text-xs font-mono text-[color:var(--color-subtle)] mb-2">
-                  email
+
+            {/* Primary — talk to biiieem */}
+            <div className="relative rounded-xl border border-[color:var(--color-accent)]/30 bg-[color:color-mix(in_srgb,var(--color-accent)_6%,var(--color-bg-elevated))] p-6 sm:p-8 overflow-hidden">
+              <div className="absolute inset-0 pointer-events-none opacity-60">
+                <div className="absolute -top-16 -right-16 h-48 w-48 rounded-full bg-[color:var(--color-accent)]/15 blur-3xl" />
+              </div>
+              <div className="relative grid sm:grid-cols-[1fr_auto] gap-6 items-end">
+                <div>
+                  <div className="flex items-center gap-2 mb-3">
+                    <span className="relative flex h-2 w-2">
+                      <span className="absolute inset-0 rounded-full bg-[color:var(--color-accent)] animate-ping opacity-60" />
+                      <span className="relative h-2 w-2 rounded-full bg-[color:var(--color-accent)]" />
+                    </span>
+                    <span className="text-xs font-mono tracking-wider uppercase text-[color:var(--color-accent)]">
+                      Preferred · fastest
+                    </span>
+                  </div>
+                  <h3 className="text-2xl sm:text-3xl font-semibold tracking-tight mb-3">
+                    Talk to <span className="text-[color:var(--color-accent)]">biiieem</span>
+                  </h3>
+                  <p className="text-[color:var(--color-muted)] leading-relaxed max-w-xl">
+                    My AI assistant lives in the bottom-right corner of this page.
+                    Ask anything about the work, scope a project, or leave your email —
+                    I get back within 24 hours.
+                  </p>
                 </div>
-                <div className="text-base font-medium">mbelteshazzar.bm.1247@gmail.com</div>
-                <div className="mt-4 text-sm text-[color:var(--color-subtle)] group-hover:text-[color:var(--color-accent)] transition-colors">
-                  Send →
+                <div
+                  aria-hidden
+                  className="hidden sm:flex items-center gap-2 text-sm font-mono text-[color:var(--color-accent)] select-none"
+                >
+                  <span>look for the bubble</span>
+                  <span className="inline-block animate-[nudge_1.8s_ease-in-out_infinite] text-lg">↘</span>
                 </div>
-              </a>
+                <div className="sm:hidden text-sm font-mono text-[color:var(--color-accent)]">
+                  look for the bubble ↘
+                </div>
+              </div>
+            </div>
+
+            {/* Secondary — email */}
+            <a
+              href="mailto:mbelteshazzar.bm.1247@gmail.com"
+              className="group mt-5 flex items-center justify-between rounded-xl border border-[color:var(--color-border)] bg-[color:var(--color-bg-elevated)] p-5 sm:p-6 hover:border-[color:var(--color-accent)]/40 transition-colors"
+            >
+              <div>
+                <div className="text-xs font-mono tracking-wider uppercase text-[color:var(--color-subtle)] mb-1">
+                  Or email directly
+                </div>
+                <div className="text-base sm:text-lg font-medium break-all">
+                  mbelteshazzar.bm.1247@gmail.com
+                </div>
+              </div>
+              <span className="shrink-0 ml-4 text-sm text-[color:var(--color-subtle)] group-hover:text-[color:var(--color-accent)] transition-colors">
+                Open →
+              </span>
+            </a>
+
+            {/* Tertiary — socials + location */}
+            <div className="mt-5 flex flex-wrap items-center gap-x-5 gap-y-2 text-sm text-[color:var(--color-subtle)]">
               <a
                 href="https://www.linkedin.com/in/belteshazzar-marquez-733771340/?locale=en_US"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="group rounded-xl border border-[color:var(--color-border)] bg-[color:var(--color-bg-elevated)] p-6 hover:border-[color:var(--color-accent)]/40 transition-colors"
+                className="hover:text-[color:var(--color-fg)] transition-colors"
               >
-                <div className="text-xs font-mono text-[color:var(--color-subtle)] mb-2">
-                  linkedin
-                </div>
-                <div className="text-base font-medium">belteshazzar-marquez</div>
-                <div className="mt-4 text-sm text-[color:var(--color-subtle)] group-hover:text-[color:var(--color-accent)] transition-colors">
-                  Connect →
-                </div>
+                LinkedIn
               </a>
+              <span aria-hidden>·</span>
               <a
                 href="https://github.com/dGreatNoob"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="group rounded-xl border border-[color:var(--color-border)] bg-[color:var(--color-bg-elevated)] p-6 hover:border-[color:var(--color-accent)]/40 transition-colors"
+                className="hover:text-[color:var(--color-fg)] transition-colors"
               >
-                <div className="text-xs font-mono text-[color:var(--color-subtle)] mb-2">
-                  github
-                </div>
-                <div className="text-base font-medium">@dGreatNoob</div>
-                <div className="mt-4 text-sm text-[color:var(--color-subtle)] group-hover:text-[color:var(--color-accent)] transition-colors">
-                  Follow →
-                </div>
+                GitHub
               </a>
+              <span aria-hidden>·</span>
+              <span>Manila, Philippines · UTC+8</span>
             </div>
           </div>
         </section>
