@@ -21,7 +21,7 @@ export function Footer() {
             LinkedIn
           </a>
           <a
-            href="mailto:mbelteshazzar.bm.1247@gmail.com"
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=mbelteshazzar.bm.1247@gmail.com" target="_blank" rel="noopener noreferrer"
             className="hover:text-[color:var(--color-fg)] transition-colors"
           >
             Email

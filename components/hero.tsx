@@ -31,7 +31,7 @@ export function Hero() {
             <span aria-hidden>→</span>
           </a>
           <a
-            href="mailto:mbelteshazzar.bm.1247@gmail.com"
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=mbelteshazzar.bm.1247@gmail.com" target="_blank" rel="noopener noreferrer"
             className="inline-flex items-center gap-2 rounded-full border border-[color:var(--color-border)] px-5 py-2.5 hover:bg-[color:var(--color-bg-elevated)] transition-colors"
           >
             Get in touch

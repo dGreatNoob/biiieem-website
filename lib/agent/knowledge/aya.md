@@ -68,4 +68,4 @@ Used daily by business owners. Features:
 ## Case study
 
 Public architecture writeup with screenshots: [github.com/dGreatNoob/aya-showcase](https://github.com/dGreatNoob/aya-showcase).
-On-site case study: [biiieem.website/work/aya](https://biiieem.website/work/aya).
+On-site case study: [biiieem.dev/work/aya](https://biiieem.dev/work/aya).

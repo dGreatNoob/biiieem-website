@@ -136,7 +136,7 @@ export default function HomePage() {
 
             {/* Secondary — email */}
             <a
-              href="mailto:mbelteshazzar.bm.1247@gmail.com"
+              href="https://mail.google.com/mail/?view=cm&fs=1&to=mbelteshazzar.bm.1247@gmail.com" target="_blank" rel="noopener noreferrer"
               className="group mt-5 flex items-center justify-between rounded-xl border border-[color:var(--color-border)] bg-[color:var(--color-bg-elevated)] p-5 sm:p-6 hover:border-[color:var(--color-accent)]/40 transition-colors"
             >
               <div>

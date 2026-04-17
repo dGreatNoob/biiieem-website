@@ -8,7 +8,7 @@ This is the fastest path for anything real: interviews, freelance scoping, refer
 
 ## Portfolio
 
-- **Site:** [biiieem.website](https://biiieem.website)
+- **Site:** [biiieem.dev](https://biiieem.dev)
 - **Case studies:** /work/[project-slug] on the portfolio — e.g., `/work/aya`, `/work/langgraph-rag-starter`, `/work/simple-pos`, `/work/client-work`
 
 ## Professional profiles

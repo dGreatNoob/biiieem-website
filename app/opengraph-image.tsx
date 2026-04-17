@@ -144,7 +144,7 @@ export default async function OpengraphImage() {
           }}
         >
           <span style={{ display: "flex", fontWeight: 500, color: "#fafafa" }}>
-            biiieem.website
+            biiieem.dev
           </span>
           <span style={{ display: "flex" }}>github.com/dGreatNoob</span>
         </div>

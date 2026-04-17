@@ -1,6 +1,6 @@
-# biiieem.website
+# biiieem.dev
 
-Portfolio site for Belteshazzar Marquez — deployed to [biiieem.website](https://biiieem.website).
+Portfolio site for Belteshazzar Marquez — deployed to [biiieem.dev](https://biiieem.dev).
 
 ## Stack
 

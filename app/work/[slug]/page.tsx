@@ -111,7 +111,7 @@ export default async function WorkPage({ params }: { params: Promise<Params> }) 
             <p className="text-sm text-[color:var(--color-muted)]">
               Want a walkthrough or architecture deep-dive? Reach me at{" "}
               <a
-                href="mailto:mbelteshazzar.bm.1247@gmail.com"
+                href="https://mail.google.com/mail/?view=cm&fs=1&to=mbelteshazzar.bm.1247@gmail.com" target="_blank" rel="noopener noreferrer"
                 className="text-[color:var(--color-accent)] hover:underline underline-offset-4"
               >
                 mbelteshazzar.bm.1247@gmail.com

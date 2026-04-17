@@ -3,7 +3,7 @@ import Script from "next/script";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://biiieem.website"),
+  metadataBase: new URL("https://biiieem.dev"),
   title: {
     default: "Belteshazzar Marquez — Full-Stack Developer · AI SaaS",
     template: "%s · Belteshazzar Marquez",
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     title: "Belteshazzar Marquez — Full-Stack Developer · AI SaaS",
     description:
       "I build production AI systems, agents, and the realtime operator tools that make them usable. Currently running Aya — a multi-tenant AI receptionist with real paying clients.",
-    url: "https://biiieem.website",
+    url: "https://biiieem.dev",
     siteName: "Belteshazzar Marquez",
   },
   twitter: {
