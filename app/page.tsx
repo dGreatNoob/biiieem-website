@@ -62,10 +62,12 @@ export default function HomePage() {
                 by non-technical owners.
               </p>
               <p>
-                I run{" "}
-                <span className="text-[color:var(--color-fg)]">CliqueHA Information Services</span>
-                , a one-person corporation through which I ship Aya and deliver client
-                engagements (NDA — operations ERP, retail inventory, e-commerce).
+                I work at{" "}
+                <span className="text-[color:var(--color-fg)]">CliqueHA Information Services</span>{" "}
+                — a startup where I&apos;m part of the dev team delivering client engagements
+                (NDA — operations ERP, retail inventory, e-commerce).{" "}
+                <span className="text-[color:var(--color-fg)]">Aya is my own side project</span>,
+                independent of CliqueHA.
               </p>
               <p className="pt-4 border-t border-[color:var(--color-border)]">
                 Looking for mid-level remote full-stack or AI/automations engineer roles, or

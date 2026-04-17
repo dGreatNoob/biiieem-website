@@ -55,21 +55,6 @@ export const projects: Project[] = [
     ],
   },
   {
-    slug: "micro-analytics",
-    title: "Micro Analytics",
-    blurb:
-      "Lightweight analytics SaaS for indie devs and small businesses. A smaller, friendlier alternative to the enterprise analytics stack.",
-    role: "Creator",
-    stack: ["Next.js", "TypeScript"],
-    status: "in-progress",
-    link: { label: "View on GitHub", href: "https://github.com/dGreatNoob/micro-analytics" },
-    repo: "https://github.com/dGreatNoob/micro-analytics",
-    highlights: [
-      "Minimal pageview + custom event tracking.",
-      "Built for teams that want insights without a data platform.",
-    ],
-  },
-  {
     slug: "simple-pos",
     title: "simple-pos",
     blurb:
