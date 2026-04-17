@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     type: "website",
     title: "Belteshazzar Marquez — Full-Stack Developer · AI SaaS",
     description:
-      "I build AI-powered SaaS end to end. Currently running Aya, a multi-tenant AI receptionist with real paying clients.",
+      "I build production AI systems, agents, and the realtime operator tools that make them usable. Currently running Aya — a multi-tenant AI receptionist with real paying clients.",
     url: "https://biiieem.website",
     siteName: "Belteshazzar Marquez",
   },
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Belteshazzar Marquez — Full-Stack Developer · AI SaaS",
     description:
-      "I build AI-powered SaaS end to end. Currently running Aya, a multi-tenant AI receptionist with real paying clients.",
+      "I build production AI systems, agents, and the realtime operator tools that make them usable. Currently running Aya — a multi-tenant AI receptionist with real paying clients.",
   },
   robots: { index: true, follow: true },
 };
