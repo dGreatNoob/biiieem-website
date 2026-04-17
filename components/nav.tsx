@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export function Nav() {
   return (
-    <header className="fixed inset-x-0 top-0 z-50 backdrop-blur-md bg-[color:var(--color-bg)]/70 border-b border-[color:var(--color-border)]">
+    <header className="fixed inset-x-0 top-0 z-50 backdrop-blur-md bg-[color:var(--color-bg)]/70">
       <nav className="max-w-5xl mx-auto px-6 h-14 flex items-center justify-between">
         <Link href="/" className="font-mono text-sm tracking-tight">
           <span className="text-[color:var(--color-accent)]">~</span>
@@ -23,6 +23,10 @@ export function Nav() {
           </Link>
         </div>
       </nav>
+      <div
+        aria-hidden
+        className="absolute inset-x-0 bottom-0 h-px bg-gradient-to-r from-transparent via-[color:var(--color-accent)]/40 to-transparent"
+      />
     </header>
   );
 }

@@ -2,10 +2,6 @@ export function Hero() {
   return (
     <section className="relative pt-36 pb-24 overflow-hidden">
       <div className="absolute inset-0 backdrop-grid opacity-40 pointer-events-none" />
-      <div
-        className="absolute inset-x-0 top-20 h-px bg-gradient-to-r from-transparent via-[color:var(--color-accent)]/40 to-transparent"
-        aria-hidden
-      />
       <div className="relative max-w-5xl mx-auto px-6">
         <div className="flex items-center gap-2 mb-6 text-sm text-[color:var(--color-muted)]">
           <span className="relative flex h-2 w-2">
