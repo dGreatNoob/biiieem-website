@@ -40,3 +40,13 @@ body {
     linear-gradient(to bottom, rgb(255 255 255 / 0.025) 1px, transparent 1px);
   background-size: 48px 48px;
 }
+
+/*
+ * Aya chat widget iframe — nudge it away from the viewport corner so the
+ * bubble's drop shadow has breathing room on all sides (otherwise the top
+ * edge of the circle clips against the iframe boundary).
+ */
+iframe[title="Aya Chat Widget"] {
+  bottom: 20px !important;
+  right: 20px !important;
+}
