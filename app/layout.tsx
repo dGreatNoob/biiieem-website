@@ -43,11 +43,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en">
       <body>
         {children}
-        <Script
-          src="https://app.biiieem.website/widget.js"
-          data-business-id="a1b2c3d4-e5f6-7890-abcd-ef1234567890"
-          strategy="afterInteractive"
-        />
+        <script src="https://app.biiieem.website/widget.js" data-business-id="76996788-69d5-43bb-9ecd-86bd6f2ca5c7"></script>
       </body>
     </html>
   );
