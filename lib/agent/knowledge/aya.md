@@ -2,7 +2,7 @@
 
 ## What it is
 
-A multi-tenant AI receptionist platform Belteshazzar built end-to-end. **His personal project, not a CliqueHA product.** Live in production. Serves paying business owners through an embedded chat widget and a public `/talk/[slug]` page.
+A multi-tenant AI receptionist platform Belteshazzar built end-to-end. **His personal project, not an employer's product** (independent of Karmo, his current employer, and CliqueHA, his previous one). Live in production. Serves paying business owners through an embedded chat widget and a public `/talk/[slug]` page.
 
 **Niche #1:** Dental clinics in the Philippines — agent name "Aya" (the platform + its primary niche agent share the name). **Traction:** 4 paying clinics live, 50+ qualified leads captured to date.
 

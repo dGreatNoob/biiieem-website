@@ -14,7 +14,8 @@ TypeScript, JavaScript, PHP, SQL, Python (growing), Bash. Some C++ from his Comp
 ## Backend
 
 - Node.js, Next.js API Routes
-- Laravel 12 (primary PHP framework)
+- tRPC, BFF (backend-for-frontend) patterns, microservices
+- Laravel 12 (PHP framework)
 - REST APIs, webhooks, Server-Sent Events (SSE) for streaming
 
 ## Databases and data infrastructure
@@ -43,7 +44,7 @@ Resend (transactional email), Semaphore (PH outbound SMS), Stripe, generic third
 
 ## DevOps / Tools
 
-Vercel (primary deploy target), Git, GitHub Actions, Docker, Claude Code, Cursor.
+Vercel (primary deploy target), AWS (microservices deployment), Datadog and CloudWatch (observability/monitoring), Git, GitHub Actions, Docker, Claude Code, Cursor. AI-native workflows — heavy day-to-day use of AI-assisted coding tools as part of the dev process, not just occasional use.
 
 ## Design / UI
 

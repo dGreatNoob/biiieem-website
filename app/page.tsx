@@ -48,7 +48,7 @@ export default function HomePage() {
               <p>
                 I&apos;m{" "}
                 <span className="text-[color:var(--color-fg)]">Belteshazzar Marquez</span> — a
-                full-stack developer based in Manila, Philippines. I studied Computer Engineering (embedded
+                full-stack developer based in Davao, Philippines. I studied Computer Engineering (embedded
                 systems, IoT, real-time applications) at the University of Mindanao, and for
                 the past few years I&apos;ve been building production software for small and
                 medium businesses.
@@ -63,11 +63,13 @@ export default function HomePage() {
               </p>
               <p>
                 I work at{" "}
-                <span className="text-[color:var(--color-fg)]">CliqueHA Information Services</span>{" "}
-                — a startup where I&apos;m part of the dev team delivering client engagements
-                (NDA — operations ERP, retail inventory, e-commerce).{" "}
+                <span className="text-[color:var(--color-fg)]">Karmo</span> as a{" "}
+                Full Stack Software Engineer (May 2026–present), building on{" "}
+                tRPC, React, a BFF, and microservices on AWS, with Datadog and CloudWatch
+                for observability. It&apos;s an AI-native team — we lean heavily on AI-assisted
+                workflows day to day.{" "}
                 <span className="text-[color:var(--color-fg)]">Aya is my own side project</span>,
-                independent of CliqueHA.
+                independent of my day job.
               </p>
               <p className="pt-4 border-t border-[color:var(--color-border)]">
                 Looking for mid-level remote full-stack or AI/automations engineer roles, or
@@ -172,7 +174,7 @@ export default function HomePage() {
                 GitHub
               </a>
               <span aria-hidden>·</span>
-              <span>Manila, Philippines · UTC+8</span>
+              <span>Davao, Philippines · UTC+8</span>
             </div>
           </div>
         </section>

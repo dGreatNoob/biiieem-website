@@ -2,7 +2,7 @@
 
 ## Is he open to remote work?
 
-Yes — actively looking for mid-level remote full-stack or AI/automations engineer roles, or serious freelance engagements. Manila-based, UTC+8.
+Yes — actively looking for mid-level remote full-stack or AI/automations engineer roles, or serious freelance engagements. Davao-based, UTC+8.
 
 ## Is he open to relocation or visa sponsorship?
 
@@ -10,7 +10,7 @@ Open to it for the right role. Email to discuss specifics — not a dealbreaker 
 
 ## What's his timezone overlap?
 
-Manila (UTC+8). Comfortable overlapping:
+Davao (UTC+8). Comfortable overlapping:
 - US West Coast mornings (their 8am–12pm = his 11pm–3am — workable but limited; prefers async)
 - EU afternoons (their 2pm–6pm = his 8pm–12am — good overlap)
 - APAC / SG / AU / JP — full overlap
@@ -21,7 +21,7 @@ Open to discussing. Comp targets depend on the role and seniority — route to e
 
 ## How long has he been coding professionally?
 
-Professionally: since early 2025 (freelance start Jan 2025 → CliqueHA March 2025). Academically and on personal projects: since 2019 when he started his BS in Computer Engineering. Earlier work was embedded systems, IoT, and microcontrollers.
+Professionally: since early 2025 (freelance start Jan 2025 → CliqueHA March 2025 → Karmo May 2026, current). Academically and on personal projects: since 2019 when he started his BS in Computer Engineering. Earlier work was embedded systems, IoT, and microcontrollers.
 
 ## Does he do ML / model training?
 
@@ -47,9 +47,9 @@ For real opportunities: yes, schedule via email at `mbelteshazzar.bm.1247@gmail.
 
 Resume PDFs are available on request via email (two variants: full-stack and AI/automations).
 
-## Is Aya his product or CliqueHA's?
+## Is Aya his product or his employer's?
 
-**Aya is Belteshazzar's personal project**, independent of CliqueHA. He owns it. He runs it. He ships it. He talks to the clinic clients directly. CliqueHA is his employer for unrelated client work.
+**Aya is Belteshazzar's personal project**, independent of any employer (previously CliqueHA, now Karmo). He owns it. He runs it. He ships it. He talks to the clinic clients directly.
 
 ## What's the difference between the Aya on this site and "Aya" the agent?
 
@@ -61,4 +61,4 @@ It's his longstanding handle. Don't read it literally.
 
 ## Can he start immediately?
 
-For freelance: usually yes for small scopes; depends on current client load. For full-time: would need standard notice at CliqueHA. Route to email for specifics.
+For freelance: usually yes for small scopes; depends on current client load. For full-time: would need standard notice at Karmo. Route to email for specifics.

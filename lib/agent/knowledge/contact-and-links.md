@@ -35,7 +35,7 @@ Only share on request and only to verified-serious leads. Default to email.
 
 ## Timezone
 
-Manila, Philippines — **UTC+8 (PHT)**. Comfortable overlapping with US West Coast mornings and EU afternoons.
+Davao, Philippines — **UTC+8 (PHT)**. Comfortable overlapping with US West Coast mornings and EU afternoons.
 
 ## Rule
 

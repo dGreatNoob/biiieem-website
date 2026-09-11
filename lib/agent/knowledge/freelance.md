@@ -35,7 +35,7 @@ For a specific project, the right next step is a 15-minute scoping call — pric
 
 ## Availability
 
-Current availability varies with day-job load at CliqueHA. For real projects, email with the timeline and he'll confirm capacity honestly — no waitlist stalling. Small projects (< 2 weeks) are easier to fit.
+Current availability varies with day-job load at Karmo. For real projects, email with the timeline and he'll confirm capacity honestly — no waitlist stalling. Small projects (< 2 weeks) are easier to fit.
 
 ## Contract basics
 
