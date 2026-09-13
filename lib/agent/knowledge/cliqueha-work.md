@@ -1,6 +1,6 @@
-# Client engagements at CliqueHA (anonymized — NDA)
+# Client engagements at CliqueHA (previous employer, anonymized — NDA)
 
-Belteshazzar is on the dev team at **CliqueHA Information Services**, a PH startup that delivers custom software for SMB and mid-market clients. Client names are under NDA and cannot be shared. The work is described by its technical shape only.
+Belteshazzar was on the dev team at **CliqueHA Information Services**, a PH startup that delivers custom software for SMB and mid-market clients, from March 2025 to April 2026 (previous employer — current day job is at Karmo, see `karmo-work.md`). Client names are under NDA and cannot be shared. The work is described by its technical shape only.
 
 ## Operations & order management ERP
 
@@ -41,13 +41,13 @@ Conversion-focused WooCommerce storefront for a direct-to-consumer consumer reta
 - Payment integration
 - Landing-page and content management
 
-## What Belteshazzar does on the team
+## What Belteshazzar did on the team
 
-- Ships Laravel + Livewire features across these platforms.
+- Shipped Laravel + Livewire features across these platforms.
 - Architecture conversations, code review.
-- Maintains Docker-based local dev environments.
-- Integrates payment processing, webhooks, idempotency guards, and event-driven flows between operational modules.
-- Implements role-based access control, input validation, and audit trails.
+- Maintained Docker-based local dev environments.
+- Integrated payment processing, webhooks, idempotency guards, and event-driven flows between operational modules.
+- Implemented role-based access control, input validation, and audit trails.
 
 ## Rule for answering about CliqueHA clients
 

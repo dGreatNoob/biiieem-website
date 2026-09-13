@@ -17,7 +17,7 @@ export function Hero() {
           <RotatingBuild />
         </h1>
         <p className="mt-8 max-w-2xl text-lg text-[color:var(--color-muted)] leading-relaxed">
-          Full-stack developer based in Manila, Philippines. I specialize in Next.js + LangGraph + Supabase —
+          Full-stack developer based in Davao, Philippines. I specialize in Next.js + LangGraph + Supabase —
           from the agent state machine and RAG pipeline down to the Postgres schema and the
           operator UI. Currently running <span className="text-[color:var(--color-fg)]">Aya</span>,
           a multi-tenant AI receptionist with real paying clients.
